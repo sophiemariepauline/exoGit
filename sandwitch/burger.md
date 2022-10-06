@@ -1,7 +1,6 @@
 Steak
 Salade
 Tomate
-Cornichon
 Fromage
 Sauce fines herbes
 
